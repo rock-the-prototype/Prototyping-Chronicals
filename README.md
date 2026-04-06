@@ -1,4 +1,4 @@
-#Rock the Prototype is Prototyping Innovation powered by Agile Innovation Framework & DSL Core
+# Rock the Prototype is Prototyping Innovation powered by Agile Innovation Framework & DSL Core
 
 I'm [**Sascha Block**](https://www.linkedin.com/in/sascha-block/) your host of [**Rock the Prototype**](rock-the-prototype.com) - I am **engineering software** *prototype-based iterative* and I'm documenting **software development** in **versioned**, *structured* **digital artifacts**.
 
@@ -14,12 +14,12 @@ This repository is part of my **Rock the Prototype Chronicles** format, where I 
 
 ## Problem Statement
 
-Software development is often documented across disconnected tools, ambiguous notes, static documents, and fragmented decisions.
+**Software development** is often documented across disconnected tools, ambiguous notes, static documents, and fragmented decisions.
 
-As a result, collaboration becomes harder to follow, architectural intent gets diluted, and the path from idea to implementation loses transparency.
+As a result, agile collaboration becomes harder to follow, architectural intent gets diluted, and the path from idea to implementation loses transparency.
 
 This repository explores a different approach:
-software prototyping as a versioned, structured, and traceable artifact chain.
+**software prototyping** as a **versioned**, **structured**, and traceable **digital artifact** chain.
 
 The goal is to make creation, collaboration, and decision-making easier to understand, easier to validate, and easier to evolve.
 
